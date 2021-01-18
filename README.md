@@ -10,3 +10,5 @@ A Python script that returns the item prices on ebay for what ever you search.
 - Pandas 
 - Requests
 
+## Screenshot
+![wireframe](images/SpreadsheetScreetshot.png)
