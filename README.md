@@ -11,4 +11,4 @@ A Python script that returns the item prices on ebay for what ever you search.
 - Requests
 
 ## Screenshot
-![wireframe](images/SpreadsheetScreetshot.png)
+![wireframe](./images/SpreadsheetScreetshot.png)
