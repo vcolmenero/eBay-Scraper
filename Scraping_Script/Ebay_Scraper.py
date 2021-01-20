@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-searchterm = 'pokemon555'
+searchterm = 'Charizard'
 
 def get_data(searchterm):
     url = 'https://www.ebay.com/sch/i.html?_from=R40&_nkw=pokemon+cards+charizard&_sacat=0&LH_TitleDesc=0&_sop=12&_dcat=183454&Language=English&Character=Charizard&_ipg=200&LH_Auction=1&rt=nc&LH_Sold=1&LH_Complete=1'
